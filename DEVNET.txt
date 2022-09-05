@@ -1,1 +1,4 @@
-I am a got wizard now!
+<<<<<<< HEAD
+=======
+I am a got beginner now!
+>>>>>>> test
